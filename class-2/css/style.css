@@ -1,0 +1,49 @@
+body{
+  font-family: helvetica;
+  font-size: 30px;
+   text-align: center;
+   background: url("https://i.pinimg.com/originals/cf/4f/64/cf4f64623033d4549c3d6f0d996f28eb.jpg");
+   background-size: cover;
+   background-position: center;
+   color: black;
+   font-family: helvetica;
+}
+
+#header {
+  background:#1b720e;
+  color:white;
+  padding:10px;
+  border-radius:10px;
+  text-align:center;
+  font-size:30px;
+}
+
+#avatar{
+  height:200px;
+  vertical-align:middle;
+  padding: 50px;
+  border-radius: 75px;
+}
+
+#p1 {
+  font-size: 30px;
+}
+
+.link1{
+  padding:20px;
+  font-size:30px;
+  color: white;
+  border-radius: 10px;
+  background-color: #1b720e;
+  width:250px;
+}
+
+#div1{
+display:none;
+width:80px;
+height:80px;
+background-color:gray;
+color:white;
+text-align:center;
+
+}
