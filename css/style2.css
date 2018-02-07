@@ -127,3 +127,29 @@ button:hover {
     border-color: white;
     background-color: #c4c4d4;
 }
+
+#div4{
+  font-family: 'Roboto Mono', sans-serif;
+  color:black;
+  font-size: 20px;
+}
+
+#div5{
+  font-family: 'Roboto Mono', sans-serif;
+  color:black;
+  font-size: 20px;
+}
+
+#map{
+  height:200px;
+  width: 200px;
+  vertical-align:middle;
+}
+
+/*hover map*/
+#map:hover {
+    opacity: 0.9;
+    border-style: dashed;
+    border-width: 2px ;
+    border-color: black;
+}
