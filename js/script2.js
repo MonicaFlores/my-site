@@ -1,3 +1,4 @@
+//Fade toggle (in and out) functions when click in buttons
 $(".button1").click(function(){
         $("#div1").fadeToggle();
         $("#div2").fadeToggle("slow");
@@ -9,6 +10,7 @@ $(".button2").click(function(){
         $("#div5").fadeToggle("slow");
     });
 
+//Modal Image functions
 // Get the modal
 var modal = document.getElementById('myModal');
 
